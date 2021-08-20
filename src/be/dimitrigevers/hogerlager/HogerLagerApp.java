@@ -1,4 +1,4 @@
-package hogerlager;
+package be.dimitrigevers.hogerlager;
 
 import javax.swing.*;
 import java.awt.*;
